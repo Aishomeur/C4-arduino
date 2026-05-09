@@ -1,6 +1,9 @@
 # C4-arduino
 This is my code for a c4 prop with an arduino
 
+<img width="1988" height="2460" alt="front c4" src="https://github.com/user-attachments/assets/205b4830-1a5d-4ec8-9984-a87441142da1" />
+<img width="1974" height="2639" alt="c4 back" src="https://github.com/user-attachments/assets/040bcd7a-9bf4-490e-8115-98bea0e306fc" />
+
 -------------
 Imput/Output list
 

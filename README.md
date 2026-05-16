@@ -70,4 +70,5 @@ Once the code is set, the timer starts. The LED and Buzzer will pulse every seco
 > **Tip:** You can salvage components from old electronic devices to populate your PCB.
 
 ---
+The C4 Label was made by Richard Moore where you can find it on his blog https://blog.radboogie.com/make-your-own-csgo-c4-prop-part-2-hardware/
 *Disclaimer: This is a non-functional prop intended for airsoft, cosplay, or cinematic use only.*

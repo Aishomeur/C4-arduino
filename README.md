@@ -26,7 +26,7 @@ Once the code is set, the timer starts. The LED and Buzzer will pulse every seco
 *   **Wire Cutting (If enabled):** Wires must be disconnected in the **exact order** defined during setup. 
     *   *Success:* Disconnecting all wires in order disarms the prop.
     *   *Failure:* Disconnecting the wrong wire or the wrong order triggers an immediate "KABOOM".
-*   **Emergency Override:** Holding both `*` and `#` for 10 seconds will force the prop to disarm.
+*   ** ~~Emergency Override:** Holding both `*` and `#` for 10 seconds will force the prop to disarm.~~ Dosn't work.
 
 ### 3. End Game
 *   **Disarmed:** The screen flashes "Disarmed" and the LED stays ON.
